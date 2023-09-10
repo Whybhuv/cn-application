@@ -22,9 +22,3 @@ The application will allow for transfer of data:
 
 ---
 
-## Improvement Features
-
-> Don't disclose this, these are our USPs.
-
-- [ ] Encryption
-- [ ] File Backup
